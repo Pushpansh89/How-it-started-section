@@ -1,0 +1,20 @@
+img{
+    float: left;
+    margin:20px
+}
+.heroptext{
+    background-color: sandybrown;
+    padding: 30px;
+}
+.text{
+    padding-top: 20px;
+}
+.hpbutton{
+    border-radius: 12px;
+    font-size: large;
+    font-weight: bold;
+    background-color: #f3a208;
+    width: 150px;
+    height: 50px;
+
+}

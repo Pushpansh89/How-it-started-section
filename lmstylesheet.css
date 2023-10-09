@@ -1,0 +1,52 @@
+.imgi{
+    float: left;
+    margin:20px
+}
+.firsttext{
+    float : right;
+    background-color: rgb(119, 119, 196);
+    padding-top: 20px;
+
+}
+.text2{
+    padding-top: 20px;
+}
+.imgii{
+    float: right;
+    margin:20px
+}
+.twotext{float : left;
+    background-color: rgb(35, 192, 113);
+    padding-top: 20px;
+
+    
+}
+.IItext{
+    padding-top: 20px;
+}
+.imgiii{
+    float: left ;
+    margin:20px
+}
+.thirdtext{
+    float : right ;
+    background-color: rgb(240, 141, 215);
+    padding-top: 20px;
+
+}
+.text3{
+    padding-top: 20px;
+}
+.imgiv{
+    float: right;
+    margin:20px
+}
+.fourthtext{float : left;
+    background-color: rgb(220, 248, 117);
+    padding-top: 20px;
+
+    
+}
+.text4{
+    padding-top: 20px;
+}
